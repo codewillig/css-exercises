@@ -1,0 +1,18 @@
+.oddNumber {
+    background-color: rgb(253, 148, 166);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.twentyFour {
+    font-size: 24px;
+}
+
+#uniqueSecond {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#uniqueFourth {
+    background-color: rgb(132, 236, 132);
+    font-weight: 700;
+}
